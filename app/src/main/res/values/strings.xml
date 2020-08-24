@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spoiler</string>
+    <string name="message_request_failed">Something was wrong</string>
+    <string name="message_connection_failed">Connection not available</string>
+</resources>
